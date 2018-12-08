@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------
 
 # set the path of where the input files are
-mywd = "C:/Users/Nick Morris/Downloads/TDP/Alzhiemers/USA Mortality Reports"
+mywd = "C:/ ... /USA Mortality Reports"
 
 # -----------------------------------------------------------------------------------
 # ---- Packages ---------------------------------------------------------------------
